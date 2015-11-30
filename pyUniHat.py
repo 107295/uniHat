@@ -47,4 +47,5 @@ for a in range(0, years):
 	checkNumber(units)
 	yearUnits.append(validatedNumber[0])
 
-print("", yearUnits)
+print("Units in the year: ", yearUnits)
+
